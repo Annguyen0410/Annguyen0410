@@ -63,17 +63,4 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Annguyen0410&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=Annguyen0410&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Annguyen0410&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
----
-
 <p align="center"><i>💼 Open to full-time Software Engineer opportunities — let's connect!</i></p>
